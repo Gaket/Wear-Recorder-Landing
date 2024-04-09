@@ -1,21 +1,31 @@
-name: Mobile App Name
-description: A super tagline for the mobile app
-full_description: 'A more complete description of the mobile app<br>
-<br>With a lot of features:
-<br>- Feature 1
-<br>- Feature 2
-<br>- Feature 3'
-android: https://telegra.ph/Replace-this-link-07-23
-iOS: https://telegra.ph/Replace-this-link-07-23
-web: https://telegra.ph/Replace-this-link-07-23
+name: Wear Audio Recorder
+description: Minimalistic, Material app to record your thoughts, lectures and any other important moment of your life
+full_description:'Record your conversations, lectures, meetings and anything you want with very simple and intuitive interface. The app is designed both for watches and smartphones.
+
+Features:
+  · The all-new Material design;
+  · Sound quality customisation (choice of the optimal modes);
+  · Dropbox & Google drive
+  · Add photos to your recordings.
+  · Echo suppression and noise filtering, silence skipping;
+  · Work in the background (when the display is off);
+  · Autostart when you start;
+  · Invisible Recording (replaces an icon in the notification bar, so nobody can see that the recording is launched)
+  · Synchronise the watch (if any);
+  · Manage audio recordings (share, delete, rename)
+  · Tags'
+android: https://play.google.com/store/apps/details?id=com.rimidalv.dictaphone
 screenshots:
   - 1.png
   - 2.png
   - 3.png
   - 4.png
-producthunt: https://telegra.ph/Replace-this-link-07-23
+  - screen_normal.png
+  - screen_pause.jpg
+  - screen_rec.png
+  - screen_rec_notification.png
+  - screen_sync_ok_notification.png
+#producthunt: todo
 companies:
-  - url: https://telegra.ph/Replace-this-link-07-23
+  - url: https://www.androidpolice.com/2014/08/01/28-best-new-android-wear-apps-and-watch-faces-from-72214-8114/
     image: androidpolice.png
-  - url: https://telegra.ph/Replace-this-link-07-23
-    image: producthunt.png
